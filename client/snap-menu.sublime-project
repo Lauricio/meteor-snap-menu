@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				".meteor"
+			],
+			"follow_symlinks": true,
+			"path": "/Users/hive/projects/snap-menu"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/hive/projects/Snap.js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/hive/projects/AppScroll.js"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/Users/hive/projects/ModalWindowEffects"
+		}
+	]
+}

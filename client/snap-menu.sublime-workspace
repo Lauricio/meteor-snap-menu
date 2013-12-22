@@ -1,0 +1,1212 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"con",
+				"cono	JS - console-orange"
+			],
+			[
+				"tok",
+				"token"
+			],
+			[
+				"toke",
+				"tokensGCM"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"is",
+				"is_uiwebview_android"
+			],
+			[
+				"up",
+				"up"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ds",
+				"ols-ds	outline-style: dashed;"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/hive/projects/snap-menu/snap-menu.html",
+			"settings":
+			{
+				"buffer_size": 13753,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "snap-menu.css",
+			"settings":
+			{
+				"buffer_size": 5775,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "menu.js",
+			"settings":
+			{
+				"buffer_size": 692,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compatibility/AppScroll.js",
+			"settings":
+			{
+				"buffer_size": 3150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compatibility/snap.js",
+			"settings":
+			{
+				"buffer_size": 26782,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hunt",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"hunter",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"hut",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"hun",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"hunte",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"hu",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"scop",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 554.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hive/projects/snap-menu/client/snap-menu.css",
+		"/Users/hive/projects/snap-menu/client/demo.css",
+		"/Users/hive/projects/template44/client/App/info/info.html",
+		"/Users/hive/projects/template44/.meteor/local/build/programs/client/app/client/App/info/info.js",
+		"/Users/hive/projects/template44/client/App/info/info.js",
+		"/Users/hive/projects/template44/client/Cms/configuration/cms-configuration.js",
+		"/Users/hive/projects/template44/client/Cms/announcement/cms-announcement.js",
+		"/Users/hive/projects/template44/client/App/sponsors/sponsor.html",
+		"/Users/hive/projects/template44/client/App/attendees/attendee.html",
+		"/Users/hive/projects/template44/client/App/welcome/welcome.html",
+		"/Users/hive/projects/template44/server/server.js",
+		"/Users/hive/projects/template44/client/App/agenda/agenda.js",
+		"/Users/hive/projects/template44/packages/push-server/server.js",
+		"/Users/hive/projects/template44/client/App/attendees/attendee.less",
+		"/Users/hive/projects/template44/client/App/attendees/attendee.js",
+		"/Users/hive/projects/template44/client/App/welcome/welcome.js",
+		"/Users/hive/projects/template44/client/App/sponsors/sponsor.less",
+		"/Users/hive/projects/template44/add-android-3.3.3.sh",
+		"/Users/hive/projects/template44/packages/android/control.js",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/Trauma/trauma-deploy.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/ASTOC/astoc-nginx.conf.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/ASTOC/astoc-nginx.conf.json",
+		"/Users/hive/Dropbox/_dev/Deployment/deploy2.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/deploy stable.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/ASTOC/nginx.conf",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/Trauma/nginx.conf.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/Trauma/deploy.sh",
+		"/Users/hive/Dropbox/_dev/Deployment/Events/ASTOC/astoc.sh",
+		"/Users/hive/Dropbox/docs/docker.md",
+		"/Users/hive/Desktop/test.md",
+		"/Users/hive/Dropbox/_dev/Deployment/deploy.sh",
+		"/Users/hive/template44/client/App/note/note.js",
+		"/Users/hive/template44/lib/bootstrap/bootstrap.less",
+		"/Users/hive/template44/client/App/feedback/feedback.html",
+		"/Users/hive/template44/client/App/feedback/feedback.js",
+		"/Users/hive/template44/client/helpers.less",
+		"/Users/hive/template44/client/App/info/info.html",
+		"/Users/hive/template44/client/App/info/info.less",
+		"/Users/hive/template44/client/modules.less",
+		"/Users/hive/template44/client/App/menu/menu.less",
+		"/Users/hive/template44/client/App/feedback/feedback.less",
+		"/Users/hive/template44/client/App/feedback/feedback-final.html",
+		"/Users/hive/template44/client/App/login/login.html",
+		"/Users/hive/template44/client/Cms/upload/upload.html",
+		"/Users/hive/template44/client/Cms/team/cms-team.html",
+		"/Users/hive/template44/client/Cms/sponsors/cms-sponsor.html",
+		"/Users/hive/template44/client/Cms/polls/cms-poll.html",
+		"/Users/hive/template44/client/App/menu/menu.html",
+		"/Users/hive/template44/client/App/home/home.html",
+		"/Users/hive/template44/client/App/welcome/welcome.html",
+		"/Users/hive/template44/client/variables.lessimport",
+		"/Users/hive/template44/client/Cms/map/cms-map.html",
+		"/Users/hive/template44/client/Cms/announcement/cms-announcement.html",
+		"/Users/hive/template44/client/Cms/configuration/cms-configuration.html",
+		"/Users/hive/template44/client/Cms/content/cms-content.html",
+		"/Users/hive/template44/client/Cms/dashboard/cms-dashboard.html",
+		"/Users/hive/template44/client/Cms/discussion/cms-discussion.html",
+		"/Users/hive/template44/client/App/userprofile/userprofile.html",
+		"/Users/hive/template44/lib/bootstrap/buttons.lessimport",
+		"/Users/hive/template44/client/App/agenda/agenda.html",
+		"/Users/hive/template44/client/App/conversation/conversation.html",
+		"/Users/hive/template44/client/App/discussion/discussion.html",
+		"/Users/hive/template44/client/App/userprofile/attending.html",
+		"/Users/hive/template44/packages/collectionFS/README.md",
+		"/Users/hive/template44/client/Cms/polls/cms-pollDisplay.html",
+		"/Users/hive/template44/client/Cms/content/cms.less",
+		"/Users/hive/template44/client/App/login/login.less",
+		"/Users/hive/template44/client/App/welcome/welcome.less",
+		"/Users/hive/template44/client/App/agenda/agenda.js",
+		"/Users/hive/template44/client/mixins.lessimport",
+		"/Users/hive/template44/client/Language/en-uk.js",
+		"/Users/hive/template44/client/index.html",
+		"/Users/hive/Dropbox/Apps/sublime3/Packages/User/Dark Nebula.tmTheme",
+		"/Users/hive/Dropbox/Apps/sublime3/Packages/User/Ashes And Blow.tmTheme",
+		"/Users/hive/template44/client/App/inputModal/inputModal.less",
+		"/Users/hive/Dropbox/Apps/sublime3/Packages/HTML/HTML.tmLanguage",
+		"/Users/hive/Dropbox/Apps/sublime3/Packages/Handlebars/Handlebars.tmLanguage",
+		"/Users/hive/Dropbox/Apps/sublime3/Packages/Handlebars/Handlebars.JSON-tmLanguage",
+		"/Users/hive/template44/client/App/people/people.less",
+		"/Users/hive/template44/client/App/welcome/welcome.js",
+		"/Users/hive/template44/client/App/people/peoplemodal.html",
+		"/Users/hive/template44/client/App/polls/poll.html",
+		"/Users/hive/template44/client/App/polls/poll.less",
+		"/Users/hive/template44/client/App/polls/pollModal.html",
+		"/Users/hive/template44/client/App/inputModal/inputModal.html",
+		"/Users/hive/template44/lib/bootstrap/modal3.lesstest.less",
+		"/Users/hive/template44/client/Cms/discussion/cms-newpost.html",
+		"/Users/hive/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hive/template44/client/App/speakers/speaker.less",
+		"/Users/hive/template44/client/App/home/home.less",
+		"/Users/hive/template44/client/App/people/people.html",
+		"/Users/hive/template44/client/App/speakers/speaker.html",
+		"/Users/hive/template44/client/App/discussion/discussion.less",
+		"/Users/hive/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hive/template44/client/App/discussion/chatmodal.less",
+		"/Users/hive/template44/client/App/discussion/chatmodal.html",
+		"/Users/hive/Dropbox/Apps/Instructions.txt",
+		"/Users/hive/SkyDrive/_Vietoj Lauktuviu/Straipsniai_Siaures_Amerika_2009.html",
+		"/Users/hive/template44/.gitignore",
+		"/Users/hive/template44/rm-android.sh",
+		"/Users/hive/template44/rm-ios.sh",
+		"/Users/hive/template44/client/app.less",
+		"/Users/hive/template44/add-ios.sh",
+		"/Users/hive/template44/rm-packages.sh",
+		"/Users/hive/template44/add-packages.sh",
+		"/Users/hive/template44/add-android.sh",
+		"/Users/hive/template44/server/accounts.js",
+		"/Users/hive/template44/client/App/alerts/announcement.html",
+		"/Users/hive/template44/client/App/login/loginModal.html",
+		"/Users/hive/template44/client/App/login/singupModal.html",
+		"/Users/hive/template44/client/App/map/map-modal.html",
+		"/Users/hive/template44/client/App/userprofile/userEditModal.html",
+		"/Users/hive/template44/client/Cordova/cordova-android.js",
+		"/Users/hive/template44/packages/oauth/oauth_server.js",
+		"/Users/hive/template44/client/App/menu/menu.js",
+		"/Users/hive/template44/android.java",
+		"/Users/hive/template44/packages/oauth/oauth_client.js",
+		"/Users/hive/template44/client/App/header/header.less",
+		"/Users/hive/template44/client/Cms/content/filter.less",
+		"/Users/hive/template44/client/App/attendees/attendee.html",
+		"/Users/hive/template44/packages/oauth/.build/buildinfo.json",
+		"/Users/hive/template44/client/cordova-ios.js",
+		"/Users/hive/template44/client/cordova-android.js",
+		"/Users/hive/template44/packages/collectionFS/examples/filemanager/client/dragndrop.js",
+		"/Users/hive/template44/lib/bootstrap/navbar.lessimport",
+		"/Users/hive/template44/client/cordova.js",
+		"/Users/hive/template44/client/App/demo/demo.html",
+		"/Users/hive/.meteor/packages/oauth/b0ea4a9258/browser/packages/oauth.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transition-timing-function: linear, linear;",
+			"scrollable",
+			"doc.body",
+			"utils.klass.remove(doc.body, 'snapjs-right');",
+			"utils.klass.remove(doc.body, 'snapjs-left');",
+			"utils.klass.add(doc.body, 'snapjs-left');",
+			"snapjs-left",
+			"userOpts",
+			"doc.body",
+			"utils.klass",
+			"klass",
+			"utils",
+			"doc.body",
+			"add",
+			"addBodyClasses",
+			"js-openInfo",
+			"Days",
+			"days",
+			"pushNotificationToMany",
+			"pushAlertNotificationsGCM",
+			"pushAlertNotifications",
+			"pushNotificationToManyGCM",
+			"READ_PHONE_STATE",
+			"js-openSponsorFile",
+			"## Clean Start",
+			"astoc",
+			"a",
+			"demo",
+			"idigidocn",
+			"adigidocn",
+			"digidocn",
+			"add-packages",
+			"digidocn",
+			"idigidocn",
+			"eduwiki",
+			"2",
+			"idigidoc",
+			"adigidoc",
+			"digidoc",
+			"eduwiki",
+			"webapp",
+			"ios2",
+			"ios",
+			"android",
+			"polls-nav",
+			"new-post-btn-agenda",
+			"5",
+			"7",
+			"-8",
+			"8",
+			"col-6 col-sm-6 col-lg-6",
+			"8",
+			"6",
+			"12",
+			"final-feedback-page",
+			"final-survey-control",
+			"&",
+			"5",
+			"col-4 col-sm-4 col-lg-4",
+			"4",
+			"col-sm-4 col-lg-4",
+			"col-4 col-sm-4 col-lg-4",
+			"4",
+			"col-xs-4 ",
+			"col-6 col-sm-6 col-lg-6",
+			"4",
+			"col",
+			"col-xs-4 ",
+			"col-sm-4 col-lg-4",
+			"6",
+			"col-sm-4 col-lg-4",
+			"btn-large",
+			"btn-mini",
+			"col-6 col-sm-6 col-lg-6",
+			"custom",
+			"less",
+			"custom",
+			"less",
+			"html",
+			"7BC2B4",
+			"FF5E75",
+			"LESS mixin",
+			"FF4952",
+			"91483A",
+			"ID Value",
+			"Quotes",
+			"Name",
+			"Value",
+			"Quotes",
+			"FF5E75",
+			"F7A24A",
+			"F67C00",
+			"F08A67",
+			"F0913B",
+			"A49F96",
+			"947676",
+			"AB5A58",
+			"8F837B",
+			"8F8C7B",
+			"6CD14A",
+			"947676",
+			"FF5E75",
+			"94546E",
+			"AB5A58",
+			"E85A4A",
+			"main-dropdown-tablet",
+			".main-dropdown-tablet",
+			"open-profile js-editMyProfile",
+			"positive",
+			"info-component",
+			"transition",
+			"active",
+			"h4",
+			"is-selected",
+			"positive",
+			"is-selected",
+			"enabled",
+			"negative",
+			"positive",
+			"div",
+			"4",
+			"orange",
+			"activate-question",
+			"CMSpollIquestionIS",
+			"info-compo",
+			"span",
+			"sparkicon",
+			"{}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"btn-lg",
+			"-webview",
+			"ios-webview"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/hive/projects/snap-menu/snap-menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13753,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1680.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "snap-menu.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1749,
+								1749
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "menu.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "compatibility/AppScroll.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "compatibility/snap.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.scope_viewer":
+	{
+		"height": 132.0
+	},
+	"project": "snap-menu.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"info",
+				"client/App/info/info.js"
+			],
+			[
+				"inf",
+				"client/App/info/info.html"
+			],
+			[
+				"in",
+				"client/App/info/info.html"
+			],
+			[
+				"agenda",
+				"client/App/agenda/agenda.js"
+			],
+			[
+				"spon",
+				"client/App/sponsors/sponsor.less"
+			],
+			[
+				"welcom",
+				"client/App/welcome/welcome.js"
+			],
+			[
+				"wel",
+				"client/App/welcome/welcome.html"
+			],
+			[
+				"atte",
+				"client/App/attendees/attendee.js"
+			],
+			[
+				"sponsor",
+				"client/App/sponsors/sponsor.html"
+			],
+			[
+				"cmsannc",
+				"client/Cms/announcement/cms-announcement.js"
+			],
+			[
+				"cmscon",
+				"client/Cms/configuration/cms-configuration.js"
+			],
+			[
+				"notes",
+				"client/App/note/note.less"
+			],
+			[
+				"note",
+				"client/App/note/note.html"
+			],
+			[
+				"serve",
+				"server/server.js"
+			],
+			[
+				"fee",
+				"client/App/feedback/feedback.js"
+			],
+			[
+				"feedb",
+				"client/App/feedback/feedback.less"
+			],
+			[
+				"feedba",
+				"client/App/feedback/feedback.html"
+			],
+			[
+				"con",
+				"client/App/conversation/conversation.html"
+			],
+			[
+				"var",
+				"client/variables.lessimport"
+			],
+			[
+				"helper",
+				"client/helpers.less"
+			],
+			[
+				"feed",
+				"client/App/feedback/feedback.less"
+			],
+			[
+				"ho",
+				"client/App/home/home.html"
+			],
+			[
+				"login",
+				"client/App/login/login.html"
+			],
+			[
+				"mod",
+				"client/modules.less"
+			],
+			[
+				"butto",
+				"lib/bootstrap/buttons.lessimport"
+			],
+			[
+				"profil",
+				"client/App/userprofile/userprofile.html"
+			],
+			[
+				"menu",
+				"client/App/menu/menu.less"
+			],
+			[
+				"mix",
+				"client/mixins.lessimport"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"agen",
+				"client/App/agenda/agenda.js"
+			],
+			[
+				"age",
+				"client/App/agenda/agenda.html"
+			],
+			[
+				"age/",
+				"client/App/agenda/agenda.html"
+			],
+			[
+				"poe",
+				"client/App/people/people.less"
+			],
+			[
+				"ag",
+				"client/App/agenda/agenda.js"
+			],
+			[
+				"mixi",
+				"client/mixins.lessimport"
+			],
+			[
+				"cms",
+				"client/Cms/content/cms.less"
+			],
+			[
+				"welc",
+				"client/App/welcome/welcome.js"
+			],
+			[
+				"en",
+				"client/Language/en-uk.js"
+			],
+			[
+				"welco",
+				"client/App/welcome/welcome.less"
+			],
+			[
+				"peop",
+				"client/App/people/peoplemodal.html"
+			],
+			[
+				"input",
+				"client/App/inputModal/inputModal.less"
+			],
+			[
+				"inpu",
+				"client/App/inputModal/inputModal.html"
+			],
+			[
+				"post",
+				"client/Cms/discussion/cms-newpost.html"
+			],
+			[
+				"pol",
+				"client/App/polls/poll.html"
+			],
+			[
+				"helpe",
+				"client/helpers.less"
+			],
+			[
+				"poll",
+				"client/Cms/polls/cms-poll.html"
+			],
+			[
+				"help",
+				"client/helpers.less"
+			],
+			[
+				"modal",
+				"client/App/people/peoplemodal.html"
+			],
+			[
+				"welm",
+				"client/App/welcome/welcome.less"
+			],
+			[
+				"fil",
+				"client/Cms/content/filter.less"
+			],
+			[
+				"header",
+				"client/App/header/header.less"
+			],
+			[
+				"app",
+				"client/app.less"
+			],
+			[
+				"egan",
+				"packages/collectionFS/examples/filemanager/client/dragndrop.js"
+			],
+			[
+				"demo",
+				"client/App/demo/demo.html"
+			],
+			[
+				"speak",
+				"client/App/speakers/speaker.html"
+			],
+			[
+				"people",
+				"client/App/people/people.html"
+			],
+			[
+				"dis",
+				"client/App/discussion/discussion.html"
+			],
+			[
+				"head",
+				"client/App/header/header.less"
+			],
+			[
+				"filte",
+				"client/Cms/content/filter.less"
+			],
+			[
+				"menul",
+				"client/App/menu/menu.less"
+			],
+			[
+				"cmsls",
+				"client/Cms/content/cms.less"
+			],
+			[
+				"cmsle",
+				"client/content/cms.less"
+			],
+			[
+				"tend",
+				"client/attendees/attendees.html"
+			],
+			[
+				"atten",
+				"client/attendees/attendees.less"
+			],
+			[
+				"speakers",
+				"client/speakers/speakers.less"
+			],
+			[
+				"chat",
+				"client/chat/chat.less"
+			],
+			[
+				"spea",
+				"client/speakers/speakers.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Projects/Sublime/ldc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

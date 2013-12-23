@@ -16,16 +16,15 @@ html, body {
   left: 0;
   width: auto;
   height: auto;
-  z-index: 2;
+  z-index: 10;
   overflow: hidden;
   /*overflow-y: auto;*/
 /*overflow-x: hidden;*/
   -webkit-overflow-scrolling: touch;
-  -webkit-transform: translate3d(0, 0, 0);
-     -moz-transform: translate3d(0, 0, 0);
-      -ms-transform: translate3d(0, 0, 0);
-       -o-transform: translate3d(0, 0, 0);
-          transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 .snap-drawers {
@@ -44,7 +43,7 @@ html, body {
   right: auto;
   bottom: 0;
   left: auto;
-  width: 265px;
+  width: 270px;
   height: auto;
   overflow-y: auto;
   overflow-x: hidden;
@@ -63,12 +62,18 @@ html, body {
 
 .snap-drawer-right {
   right: 0;
-  z-index: 1;
+  z-index: -1;
 }
 
 .snapjs-left .snap-drawer-right,
 .snapjs-right .snap-drawer-left {
-  display: none;
+  // display: none;
+  visibility: hidden;
+  z-index: -1;
+}
+
+.snapjs-right .snap-drawer-right {
+  z-index: 1;
 }
 
 .snapjs-expand-left .snap-drawer-left,
@@ -96,7 +101,7 @@ html, body {
   right: 0;
   left: 0;
   width: auto;
-  height: 44px;
+  height: 60px;
 }
 
 #toolbar h1 {
@@ -104,9 +109,9 @@ html, body {
   font-size: 16px;
   line-height: 22px;
   text-align: center;
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.8);
+  // text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.8);
   position: absolute;
-  top: 0;
+  top: 15px;
   right: 44px;
   left: 44px;
   width: auto;
@@ -115,15 +120,31 @@ html, body {
 
 #open-left {
   /*display: block;*/
-  width: 44px;
-  height: 44px;
+  width: 30px;
+  height: 30px;
   position: absolute;
-top: 0;
+top: 22px;
 right: auto;
 bottom: auto;
-left: 0;
+left: 5px;
 /*background-color: #333;*/
-z-index: 10;
+z-index: 20;
+background-color: rgba(0, 0, 0, 0.3);
+color: white;
+border:none;
+outline: none;
+border-radius: 50%;
+}
+
+
+.status-bar {
+  width: 100%;
+  height: 20px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #536ea7;
+  z-index: 15
 }
 
 
@@ -212,10 +233,38 @@ fast scroll
   padding: 2em;
 }
 
+.main-modal {
+    position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -10;
+  visibility: hidden;
 
-.fixfixed .main-content, .fixfixed .snap-content { 
-    position: absolute; 
-} 
+    // transform: translateX(-100%) translateY(-100%);
+    backface-visibility: hidden;
+    // transform: scale(0.7);
+    opacity: 0;
+    transition: opacity 0.3s;
+
+  &.is-visible {
+    z-index: 100;
+    visibility: visible;
+      // transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.main-modal-content {
+  &:extend(.main-content);
+background-color: #27ae60;
+}
+
+
+// .fixfixed .main-content, .fixfixed .snap-content { 
+//     position: absolute; 
+// } 
 
 
 

@@ -9,7 +9,6 @@
  * Version: 1.9.3
  */
 /*jslint browser: true*/
-
 /*global define, module, ender*/
 (function(win, doc) {
     'use strict';
@@ -21,11 +20,11 @@
             addBodyClasses: true,
             hyperextensible: false,
             resistance: 0.5,
-            flickThreshold: 20,
+            flickThreshold: 50,
             transitionSpeed: 0.3,
             easing: 'ease',
-            maxPosition: 266,
-            minPosition: -266,
+            maxPosition: 270,
+            minPosition: -270,
             tapToClose: true,
             touchToDrag: true,
             slideIntent: 40, // degrees

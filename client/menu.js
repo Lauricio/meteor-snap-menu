@@ -7,16 +7,21 @@ var snapper;
   },
   'focus input' :function () {
       console.log("fucus")
-      $( "#body" ).addClass( "fixfixed" );
+      // $( "#body" ).addClass( "fixfixed" );
   },
     'blur input' :function (e) {
       console.log("blur")
       e.stopImmediatePropagation();
-      $( "#body" ).removeClass( "fixfixed" );
-      $(window).scrollTop(0);
+      // $( "#body" ).removeClass( "fixfixed" );
+      // $(window).scrollTop(0);
   },
-    'click #openModal-1, tap #openModal-1' :function () {
-      $( "#modal-1" ).toggleClass( "md-show" );
+    'click #open-modal, tap #open-modal' :function () {
+      $( "#mainModal" ).addClass( "is-visible" );
+      StatusBar.hide();
+  },
+    'click #close-modal, tap #close-modal' :function () {
+      $( "#mainModal" ).removeClass( "is-visible" );
+      StatusBar.show();
   },
     'click .md-close' :function () {
       $( "#modal-1" ).removeClass( "md-show" );
@@ -36,9 +41,5 @@ Template.hello.created = function () {
     //      toolbar: document.getElementById('toolbar'),
     //      scroller: document.getElementById('content')
     //  });
-    //     window.scroller2 = new AppScroll({
-    //     toolbar: document.getElementById('toolbar'),
-    //     scroller: document.getElementById('draw-left')
-    // });
     // window.scroller.on();
   })}
